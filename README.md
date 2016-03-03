@@ -1,2 +1,2 @@
-# coursera-html-css-javascript
+# Coursera Full Stack Web Development Specialization by HKUST
 Coursera HTML, CSS and JavaScript Assignments
